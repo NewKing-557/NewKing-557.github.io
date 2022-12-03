@@ -20,8 +20,11 @@ body {
         color: #000;	/* 去除默认的颜色和点击后变化的颜色 */ 
     }
 
+    a:link {
+        text-decoration: none;
+    }    
 
 
-.div1{
-   text-align: center;
-}
+    .div1{
+        text-align: center;
+    }
