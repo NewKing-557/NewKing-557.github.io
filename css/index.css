@@ -22,7 +22,8 @@ body {
     }
 
     .container-fluid{
-        margin-top: 200px;
+        /* margin-top: 200px; */
+        margin-top: 40%;
     }
 
     a {
